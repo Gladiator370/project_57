@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+     background:linear-gradient(#20fc03 0%,#00d1bc 100%);
+    background-repeat: no-repeat;
+}
+img{
+    border-radius:200%;
+    width:200px;
+}
+h1{
+    font-size: 25px;
+}
+P{
+    font-size: 20px;
+    color: black
+}
+#bio{
+    padding: 20px;
+    font-size: 18px;
+    text-align: center
+}
